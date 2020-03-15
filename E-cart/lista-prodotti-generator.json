@@ -1,0 +1,33 @@
+[
+    '{{repeat(100)}}',
+    {
+      _id: '{{objectId()}}',
+      index: '{{index()}}',
+      guid: '{{guid()}}',
+      isActive: '{{bool()}}',
+      price: '{{floating(1000, 4000, 2, "0.00€")}}',
+      picture: function (tags) {
+        return 'https://picsum.photos/300/300?random=' + tags.integer(1, 2000);
+      },
+      quantity: '{{integer(1, 20)}}',
+      color: [
+        '{{repeat(2)}}',
+        '{{random("red", "blue", "brown", "green", "yellow", "pink")}}' 
+      ],
+      owner: '{{firstName()}} {{surname()}}',
+      product: '{{company().toUpperCase()}}',
+      ownerEmail: '{{email()}}',
+      about: '{{lorem(1, "paragraphs")}}',
+      registered: '{{date(new Date(2014, 0, 1), new Date(), "YYYY-MM-ddThh:mm:ss Z")}}',
+      latitude: '{{floating(-90.000001, 90)}}',
+      longitude: '{{floating(-180.000001, 180)}}',
+      tags: [
+        '{{repeat(3, 9)}}',
+        '{{lorem(1, "words")}}'
+      ],
+      bestShippedWith: [
+        '{{repeat(0, 4)}}',
+        '{{integer(0, 100)}}'
+      ]
+    }
+  ]
