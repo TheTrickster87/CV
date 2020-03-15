@@ -1,0 +1,26 @@
+[
+    {
+      "_id": "5ddcec53bc3127c79b021c61",
+      "index": 0,
+      "description": "Siamo stati presenti ad Atlanta allo spettacolo COVERINGS dall'9 all'12/04/ 2019.",
+      "picture": "./Img/news/coverings2019.jpg",      
+      "title": "COVERINGS 2019",      
+      "about": "Aliquip consequat nostrud adipisicing labore. Elit laborum incididunt deserunt fugiat amet est aute. Consectetur adipisicing aliquip ea esse fugiat cillum tempor et. In qui est labore cupidatat. Fugiat velit occaecat occaecat cillum nulla amet et consequat quis commodo amet est. Esse et ut ipsum Lorem amet nostrud ea cillum reprehenderit cillum. Excepteur exercitation in magna excepteur id commodo ad consequat proident.\r\n"
+    },
+    {
+      "_id": "5ddcec53fcc164930ff23408",
+      "index": 1,
+      "description": "Molti di voi sono venuti a trovarci al CERSAIE, dove avete potuto apprezzare le novità su uno stand pulito e rifocalizzato sulle novità. Grazie a tutti.",
+      "picture": "./Img/news/cersaie2018.jpg",
+      "title": "CERSAIE 2018",
+      "about": "Eu elit commodo cupidatat ex. Veniam tempor do laboris veniam occaecat est eiusmod et est ad et tempor ea exercitation. Officia qui velit sit ut qui mollit fugiat reprehenderit deserunt consectetur dolor et ut magna. Exercitation minim ipsum cillum velit sunt cillum est. Veniam laboris consectetur anim laboris veniam nisi esse et in proident.\r\n"
+    },
+    {
+      "_id": "5ddcec53fcce588a3f7af2d6",
+      "index": 2,
+      "description": "Siamo stati presenti ad Atlanta (Georgia) allo spettacolo COVERINGS",
+      "picture": "./Img/news/coverings2018.jpg",
+      "title": "COVERING 2018",
+      "about": "Aliquip ea cupidatat velit pariatur anim occaecat esse. Dolore enim esse culpa ea in sunt aute dolor exercitation pariatur. Ad est deserunt in in sunt cupidatat laboris magna velit eu consectetur proident et. Culpa consectetur nulla labore sunt veniam eu do eu velit et cillum. Deserunt magna et dolor duis magna officia voluptate commodo officia veniam aute sunt Lorem. Deserunt amet aute cillum excepteur reprehenderit sint aute duis ut veniam et quis excepteur velit.\r\n"
+    }
+  ]
